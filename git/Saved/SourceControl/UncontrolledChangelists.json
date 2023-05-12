@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kyler/Documents/temp/EnhancedTopDown/git/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/78/FBR4X3QS2U1JDDOL41R95K.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/kyler/Desktop/EnhancedTopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+			]
+		}
+	]
+}
